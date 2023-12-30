@@ -34,7 +34,30 @@ h2{
     font-size: large;
     color: #024873;
 }
+p{
+    margin: 15px;
+}
 footer{
     margin-top: 25px;
     text-align: center;
+}
+#tecInfo img{
+    display: block;
+    float: right;
+    max-width: 85px;
+}
+#st img{
+display: block;
+max-width: 285px;
+float: left;
+margin: 15px;
+}
+#app img{
+    display: block;
+    float: right;
+    max-width: 285px;
+}
+#webSites img{
+    display: block;
+    max-width: 285px;
 }
