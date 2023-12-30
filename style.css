@@ -1,63 +1,65 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-article{
+
+article {
     padding: 25px;
 }
-a{
+
+a {
     text-decoration: none;
     color: #D91E0D;
 }
-#logo img{
+
+#logo img {
     display: block;
     margin: auto;
     max-width: 285px;
 }
-header button{
-float: right;
-background-color: #D91E0D;
-border-radius: 15px;
+
+header button {
+    float: right;
+    background-color: #D91E0D;
+    border-radius: 15px;
 }
-ul#First{
+
+ul#First {
     list-style: none;
 }
-ul li{
+
+ul li {
     margin-bottom: 25px;
     margin-left: 25px;
 }
-h1{
+
+h1 {
     font-size: xx-large;
 }
-h2{
+
+h2 {
     font-size: large;
     color: #024873;
 }
-p{
+
+p {
     margin: 15px;
 }
-footer{
+
+footer {
     margin-top: 25px;
     text-align: center;
 }
-#tecInfo img{
+
+#tecInfo img {
     display: block;
     float: right;
     max-width: 85px;
 }
-#st img{
-display: block;
-max-width: 285px;
-float: left;
-margin: 15px;
-}
-#app img{
+
+#first img {
     display: block;
-    float: right;
-    max-width: 285px;
-}
-#webSites img{
-    display: block;
-    max-width: 285px;
+    max-width: 185px;
+    margin: 15px;
 }
