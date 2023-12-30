@@ -1,0 +1,7 @@
+Palheta de cores
+
+Azul 100% = #024873
+Azul 75% = #049DD9
+Azul 50% = #05DBF2
+Laranja = #D91E0D
+Branco = #F2F2F2
